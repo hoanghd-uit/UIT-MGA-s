@@ -38,7 +38,6 @@ UIT-MGA/
 |       |   |-- *_Weighted.csv
 |       |   `-- *_Soft.csv
 |       `-- <session_timestamp>.zip
-|-- scripts/                            # Preprocessing and baseline code
 |-- LICENSE
 |-- LICENSE-CODE
 `-- README.md
